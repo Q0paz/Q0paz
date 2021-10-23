@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Q0paz
-- 👀 I’m interested in $ADA
+- 👀 I’m interested in ₳DA
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
